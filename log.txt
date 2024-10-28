@@ -1,0 +1,96 @@
+[2024.10.28 19:12:47] Launched version: 5006003, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2024.10.28 19:12:47] Executable dir: C:/Users/StepAcademy/Documents/Telegram/, name: Telegram.exe
+[2024.10.28 19:12:47] Initial working dir: C:/Users/StepAcademy/Documents/Telegram/
+[2024.10.28 19:12:47] Working dir: C:/Users/StepAcademy/Documents/Telegram/
+[2024.10.28 19:12:47] Command line: C:\Users\StepAcademy\Documents\Telegram\Telegram.exe
+[2024.10.28 19:12:47] Executable path before check: C:/Users/StepAcademy/Documents/Telegram/Telegram.exe
+[2024.10.28 19:12:47] Logs started
+[2024.10.28 19:12:47] AppUserModelID: Telegram.TelegramDesktop.f42d07c36d71558d44a80e74867940d7
+[2024.10.28 19:12:47] Using DirectX compiler 'C:\Users\StepAcademy\Documents\Telegram\modules\x64\d3d\d3dcompiler_47.dll'.
+[2024.10.28 19:12:47] Connecting local socket to Global\3e1de4497a3d646efc999eb4ebec96c5-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2024.10.28 19:12:47] This is the only instance of Telegram, starting server and app...
+[2024.10.28 19:12:47] Moved logging from 'C:/Users/StepAcademy/Documents/Telegram/log_start0.txt' to 'C:/Users/StepAcademy/Documents/Telegram/log.txt'!
+[2024.10.28 19:12:47] Global devicePixelRatio: 1
+[2024.10.28 19:12:47] QT_DPI_ADJUSTMENT_POLICY: AdjustDpi
+[2024.10.28 19:12:47] Primary screen DPI: 96, Base: 96.
+[2024.10.28 19:12:47] Computed screen scale: 100
+[2024.10.28 19:12:47] DevicePixelRatio: 1
+[2024.10.28 19:12:47] ScreenScale: 100
+[2024.10.28 19:12:47] Media Info: Type Playback, default: {0.0.0.00000000}.{fd651f04-68b7-4543-b398-079cccd10b37}, list: { "Внутренний разъем  AUX (High Definition Audio Device)" <{0.0.0.00000000}.{05c021a4-439c-48b9-8d99-99d9b22bc0a7}>, "Headphones (High Definition Audio Device)" <{0.0.0.00000000}.{19b95632-4d51-4609-8e8c-eab7c4f49038}>, "Динамики (High Definition Audio Device)" <{0.0.0.00000000}.{30fc8d57-a865-4f40-adb4-8695dfa7bbea}>, "Внутренний разъем  AUX (High Definition Audio Device)" <{0.0.0.00000000}.{3691b0d2-a320-42c5-bb82-3a797033cf0b}>, "Digital Audio (HDMI) (High Definition Audio Device)" <{0.0.0.00000000}.{bd543c54-b989-4c31-9815-d02895188df5}>, "Динамики (High Definition Audio Device)" <{0.0.0.00000000}.{fd651f04-68b7-4543-b398-079cccd10b37}> }, full list refresh: false
+[2024.10.28 19:12:47] Media Error: Can't sync default device for type Capture, default: , list: { "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{3b55f263-a56f-4baf-9b78-3b34df7cbacd}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{4fe16e39-1f28-4775-9592-505095841fd5}>, "Line In (High Definition Audio Device)" <{0.0.1.00000000}.{66053b97-4dca-40b5-82bb-21aa73b28cda}>, "Внутренний разъем  AUX (High Definition Audio Device)" <{0.0.1.00000000}.{6cf5d9e8-f592-4b97-9b0a-16c9d7dcd596}>, "Внутренний разъем  AUX (High Definition Audio Device)" <{0.0.1.00000000}.{8a5a36b2-e128-4133-a797-784a63058a37}>, "Внутренний разъем  AUX (High Definition Audio Device)" <{0.0.1.00000000}.{b4eb1975-16eb-440c-87b0-352868a5fbc0}> }
+[2024.10.28 19:12:47] Media Error: Can't sync default device for type Camera, default: , list: {  }
+[2024.10.28 19:12:47] App Info: reading settings...
+[2024.10.28 19:12:47] App Info: reading encrypted settings...
+[2024.10.28 19:12:47] Lang Info: Loaded cached, keys: 7530
+[2024.10.28 19:12:47] Font: from ':/gui/fonts/OpenSans-Regular.ttf' loaded 'Open Sans'
+[2024.10.28 19:12:47] Font: from ':/gui/fonts/OpenSans-Italic.ttf' loaded 'Open Sans'
+[2024.10.28 19:12:47] Font: from ':/gui/fonts/OpenSans-SemiBold.ttf' loaded 'Open Sans Semibold'
+[2024.10.28 19:12:47] Font: from ':/gui/fonts/OpenSans-SemiBoldItalic.ttf' loaded 'Open Sans Semibold'
+[2024.10.28 19:12:47] Font: from ':/gui/fonts/Vazirmatn-UI-NL-Regular.ttf' loaded 'Vazirmatn UI NL'
+[2024.10.28 19:12:47] Font: from ':/gui/fonts/Vazirmatn-UI-NL-SemiBold.ttf' loaded 'Vazirmatn UI NL SemiBold'
+[2024.10.28 19:12:48] OpenAL Logging Level: (not set)
+[2024.10.28 19:12:48] Audio Error: No capture device found!
+[2024.10.28 19:12:48] App Info: reading accounts info...
+[2024.10.28 19:12:48] App Info: reading encrypted info...
+[2024.10.28 19:12:48] App Info: reading map...
+[2024.10.28 19:12:48] App Info: reading encrypted map...
+[2024.10.28 19:12:48] App Info: could not read encrypted user settings...
+[2024.10.28 19:12:48] App Info: writing encrypted user settings...
+[2024.10.28 19:12:48] App Info: reading encrypted mtp data...
+[2024.10.28 19:12:48] MTP Info: read keys, current: 3, to destroy: 0
+[2024.10.28 19:12:48] Map read time: 13
+[2024.10.28 19:12:48] App Info: reading encrypted mtp config...
+[2024.10.28 19:12:48] Export Info: Destroy top bar by controller removal.
+[2024.10.28 19:12:48] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2024.10.28 19:12:48] OpenGL Profile: OpenGLES.
+[2024.10.28 19:12:48] OpenGL Renderer: ANGLE (Intel, Intel(R) HD Graphics 4600 Direct3D11 vs_5_0 ps_5_0, D3D11-20.19.15.5171)
+[2024.10.28 19:12:48] OpenGL Vendor: Google Inc. (Intel)
+[2024.10.28 19:12:48] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.10 git hash: e3f59e8d0c3e)
+[2024.10.28 19:12:48] OpenGL Extensions: GL_OES_texture_half_float, GL_OVR_multiview2, GL_EXT_occlusion_query_boolean, GL_OES_draw_elements_base_vertex, GL_EXT_blend_func_extended, GL_ANGLE_polygon_mode, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_ANGLE_client_arrays, GL_ANGLE_provoking_vertex, GL_OES_texture_border_clamp, GL_EXT_clip_cull_distance, GL_APPLE_clip_distance, GL_ANGLE_texture_compression_dxt3, GL_ANGLE_texture_usage, GL_EXT_unpack_subimage, GL_ANGLE_base_vertex_base_instance, GL_EXT_color_buffer_half_float, GL_OES_standard_derivatives, GL_OES_vertex_array_object, GL_ANGLE_multiview_multisample, GL_ANGLE_translated_shader_source, GL_EXT_texture_compression_s3tc_srgb, GL_OES_element_index_uint, GL_EXT_disjoint_timer_query, GL_OES_rgb8_rgba8, GL_OES_depth24, GL_EXT_map_buffer_range, GL_EXT_conservative_depth, GL_EXT_texture_format_BGRA8888, GL_ANGLE_framebuffer_multisample, GL_OES_texture_float, GL_CHROMIUM_bind_uniform_location, GL_ANGLE_shader_pixel_local_storage_coherent, GL_ANGLE_base_vertex_base_instance_shader_builtin, GL_EXT_debug_label, GL_EXT_frag_depth, GL_EXT_texture_type_2_10_10_10_REV, GL_ANGLE_memory_size, GL_OES_get_program_binary, GL_EXT_draw_buffers_indexed, GL_EXT_texture_mirror_clamp_to_edge, GL_EXT_shader_texture_lod, GL_ANGLE_clip_cull_distance, GL_ANGLE_lossy_etc_decode, GL_EXT_multisampled_render_to_texture, GL_OES_compressed_ETC2_RGB8_texture, GL_NV_pack_subimage, GL_OES_texture_float_linear, GL_OES_texture_npot, GL_EXT_depth_clamp, GL_OES_fbo_render_mipmap, GL_OES_surfaceless_context, GL_EXT_texture_compression_rgtc, GL_CHROMIUM_copy_compressed_texture, GL_CHROMIUM_lose_context, GL_EXT_texture_filter_anisotropic, GL_EXT_color_buffer_float, GL_NV_pixel_buffer_object, GL_ANGLE_pack_reverse_row_order, GL_EXT_base_instance, GL_OES_mapbuffer, GL_ANGLE_get_serialized_context_string, GL_OES_compressed_ETC2_sRGB8_texture, GL_WEBGL_video_texture, GL_EXT_texture_compression_bptc, GL_KHR_debug, GL_CHROMIUM_copy_texture, GL_OES_depth32, GL_EXT_polygon_offset_clamp, GL_OES_compressed_EAC_R11_unsigned_texture, GL_ANGLE_robust_client_memory, GL_OES_sample_variables, GL_EXT_instanced_arrays, GL_ANGLE_instanced_arrays, GL_EXT_float_blend, GL_KHR_parallel_shader_compile, GL_EXT_EGL_image_external_wrap_modes, GL_OES_draw_buffers_indexed, GL_EXT_read_format_bgra, GL_EXT_render_snorm, GL_OES_EGL_image_external, GL_OES_compressed_EAC_R11_signed_texture, GL_AMD_performance_monitor, GL_ANGLE_stencil_texturing, GL_CHROMIUM_sync_query, GL_EXT_texture_storage, GL_OES_compressed_ETC2_RGBA8_texture, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_OES_texture_stencil8, GL_NV_framebuffer_blit, GL_OES_shader_multisample_interpolation, GL_EXT_texture_norm16, GL_OES_compressed_EAC_RG11_signed_texture, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_ANGLE_renderability_validation, GL_ANGLE_shader_pixel_local_storage, GL_ANGLE_get_tex_level_parameter, GL_EXT_texture_rg, GL_EXT_texture_border_clamp, GL_OES_packed_depth_stencil, GL_EXT_clip_control, GL_ANGLE_texture_compression_dxt5, GL_CHROMIUM_bind_generates_resource, GL_OES_EGL_image, GL_EXT_blend_minmax, GL_NV_EGL_stream_consumer_external, GL_NV_shader_noperspective_interpolation, GL_EXT_draw_elements_base_vertex, GL_OES_EGL_image_external_essl3, , GL_EXT_texture_compression_dxt1, GL_EXT_robustness, GL_EXT_discard_framebuffer, GL_OVR_multiview, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_OES_texture_half_float_linear, GL_ANGLE_program_cache_control, GL_EXT_draw_buffers, GL_EXT_sRGB, GL_EXT_debug_marker, GL_EXT_multi_draw_indirect, GL_ANGLE_framebuffer_blit, GL_ANGLE_depth_texture, GL_ANGLE_multi_draw, GL_ANGLE_texture_multisample, GL_NV_fence, GL_ANGLE_copy_texture_3d, GL_ANGLE_request_extension
+[2024.10.28 19:12:48] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_no_config_context, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2024.10.28 19:12:48] OpenGL: QOpenGLContext created, version: 3.3.
+[2024.10.28 19:12:48] OpenGL: [TRUE] (Window)
+[2024.10.28 19:12:49] RPC Error: request 5 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 2 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 6 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 7 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 25 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] Dedicated MTP Error: Resolve failed with '401:AUTH_KEY_UNREGISTERED'
+[2024.10.28 19:12:49] RPC Error: request 12 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 17 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 26 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 4 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 23 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 19 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 3 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 18 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 10 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 24 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 11 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 8 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 21 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 16 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 9 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 15 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 14 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:49] RPC Error: request 22 got fail with code 401, error AUTH_KEY_UNREGISTERED
+[2024.10.28 19:12:52] MTP Info: destroying stale keys, count: 3
+[2024.10.28 19:12:53] MTP Info: -404 error received in destroyer 2560004, assuming key was destroyed.
+[2024.10.28 19:12:53] MTP Info: checkIfKeyWasDestroyed on destroying key 2560004, assuming it is destroyed.
+[2024.10.28 19:12:53] MTP Info: -404 error received in destroyer 2560002, assuming key was destroyed.
+[2024.10.28 19:12:53] MTP Info: checkIfKeyWasDestroyed on destroying key 2560002, assuming it is destroyed.
+[2024.10.28 19:12:53] MTP Info: -404 error received in destroyer 2560001, assuming key was destroyed.
+[2024.10.28 19:12:53] MTP Info: checkIfKeyWasDestroyed on destroying key 2560001, assuming it is destroyed.
+[2024.10.28 19:12:53] MTP Info: all keys scheduled for destroy are destroyed.
+[2024.10.28 19:14:04] Export Info: Destroy top bar by controller removal.
+[2024.10.28 19:14:04] API Warning: not loaded minimal channel applied.
+[2024.10.28 19:14:04] API Warning: not loaded minimal channel applied.
+[2024.10.28 19:14:06] MTP Info: -404 error received in 160203 with temporary key, assuming it was destroyed.
+[2024.10.28 19:31:22] API Warning: not loaded minimal channel applied.
+[2024.10.28 19:42:09] API Warning: not loaded minimal channel applied.
+[2024.10.28 19:43:02] API Warning: not loaded minimal channel applied.
+[2024.10.28 19:43:22] API Warning: not loaded minimal channel applied.
+[2024.10.28 19:55:23] API Warning: not loaded minimal channel applied.
+[2024.10.28 19:55:29] API Warning: not loaded minimal channel applied.
+[2024.10.28 20:10:19] API Warning: not loaded minimal channel applied.
+[2024.10.28 20:10:19] API Warning: not loaded minimal channel applied.
